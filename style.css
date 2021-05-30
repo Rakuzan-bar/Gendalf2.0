@@ -9,9 +9,7 @@
 }
 body{
     background-image: url("image/cccp.gif");
-    background-repeat: no-repeat;
     background-size: cover;
-    background-position: 0vh -3vh;
 
 }
 
@@ -23,6 +21,7 @@ h1{
     display: flex;
     margin-left: 500px  ;
     color: yellow; 
+  
     
 }
 .card{
@@ -30,6 +29,15 @@ h1{
 }
 .infa{
     color: yellow;
-    margin-left: 40%;
+    margin-left: 25%;
+    background-color: red;
+    text-indent: 6%;
 }
-
+.otstup{
+   margin-left: 10px ;
+}
+.otstuped{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
