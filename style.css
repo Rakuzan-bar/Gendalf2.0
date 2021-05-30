@@ -1,0 +1,35 @@
+.container{
+    display: flex;
+    margin-left: 500px  ;
+   
+   
+}
+.zadan{
+    color: yellow;
+}
+body{
+    background-image: url("image/cccp.gif");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 0vh -3vh;
+
+}
+
+h1{
+    color: yellow;
+    margin-left: 30%;
+}
+.telo{
+    display: flex;
+    margin-left: 500px  ;
+    color: yellow; 
+    
+}
+.card{
+    background-color: red;
+}
+.infa{
+    color: yellow;
+    margin-left: 40%;
+}
+
